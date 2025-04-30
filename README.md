@@ -1,5 +1,4 @@
 # Multi-Factor-Forest-Fire-Prediction-Model
-# Predictive Forest Fire Risk Assessment Model
 
 ## Overview
 This project develops a predictive forest fire risk assessment model using machine learning techniques to analyze multiple factors, including weather conditions, vegetation data, and human activities. The objective is to accurately predict fire risk levels (High, Medium, Low) to assist forest management teams with real-time risk prediction, enabling early intervention and efficient resource allocation.
